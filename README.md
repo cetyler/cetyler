@@ -30,6 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Workflow](https://cetyler.github.io/python-workflow.html)
+- [Using SQL for Exploratory Data Analysis (EDA)](https://cetyler.github.io/using-sql-for-exploratory-data-analysis-eda.html)
+- [How to Setup Local PyPi Repository](https://cetyler.github.io/how-to-setup-local-pypi-repository.html)
+- [How to Create a Python Package](https://cetyler.github.io/how-to-create-a-python-package.html)
+- [HVAC Review Using Sidetable](https://cetyler.github.io/hvac-review-using-sidetable.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
