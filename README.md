@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical SQL for Data Analysis](https://cetyler.github.io/practical-sql-for-data-analysis.html)
-- [Python Workflow](https://cetyler.github.io/python-workflow.html)
-- [Using SQL for Exploratory Data Analysis &lpar;EDA&rpar;](https://cetyler.github.io/using-sql-for-exploratory-data-analysis-eda.html)
-- [How to Setup Local PyPi Repository](https://cetyler.github.io/how-to-setup-local-pypi-repository.html)
-- [How to Create a Python Package](https://cetyler.github.io/how-to-create-a-python-package.html)
+- [Calculator Project -- CLI](https://cetyler.github.io/calculator-project-cli.html)
+- [Calculator Project -- API](https://cetyler.github.io/calculator-project-api.html)
+- [Calculator Project -- Tests](https://cetyler.github.io/calculator-project-tests.html)
+- [Calculator Project -- Requirements](https://cetyler.github.io/calculator-project-requirements.html)
+- [Calculator Project -- Setup](https://cetyler.github.io/calculator-project-setup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
