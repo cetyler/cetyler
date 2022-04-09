@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculator Project -- Documentation](https://cetyler.github.io/calculator-project-documentation.html)
 - [Calculator Project -- CLI](https://cetyler.github.io/calculator-project-cli.html)
 - [Calculator Project -- API](https://cetyler.github.io/calculator-project-api.html)
 - [Calculator Project -- Tests](https://cetyler.github.io/calculator-project-tests.html)
 - [Calculator Project -- Requirements](https://cetyler.github.io/calculator-project-requirements.html)
-- [Calculator Project -- Setup](https://cetyler.github.io/calculator-project-setup.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
