@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Fixed Broken Search](https://cetyler.github.io/fixed-broken-search.html)
 - [Manage Multiple Python Versions and Virtual Environments with pyenv](https://cetyler.github.io/manage-multiple-python-versions-and-virtual-environments-with-pyenv.html)
 - [Calculator Project -- Package](https://cetyler.github.io/calculator-project-package.html)
 - [Calculator Project -- Documentation](https://cetyler.github.io/calculator-project-documentation.html)
 - [Calculator Project -- CLI](https://cetyler.github.io/calculator-project-cli.html)
-- [Calculator Project -- API](https://cetyler.github.io/calculator-project-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
