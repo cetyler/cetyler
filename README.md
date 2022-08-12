@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Weather Project - PyPi](https://cetyler.github.io/weather-project-pypi.html)
+- [Weather Project](https://cetyler.github.io/weather-project.html)
 - [Fixed Broken Search](https://cetyler.github.io/fixed-broken-search.html)
 - [Manage Multiple Python Versions and Virtual Environments with pyenv](https://cetyler.github.io/manage-multiple-python-versions-and-virtual-environments-with-pyenv.html)
 - [Calculator Project -- Package](https://cetyler.github.io/calculator-project-package.html)
-- [Calculator Project -- Documentation](https://cetyler.github.io/calculator-project-documentation.html)
-- [Calculator Project -- CLI](https://cetyler.github.io/calculator-project-cli.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
