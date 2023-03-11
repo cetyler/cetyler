@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Prune Docker Images](https://cetyler.github.io/prune-docker-images.html)
-- [Clear Highlighting in Vim](https://cetyler.github.io/clear-highlighting-in-vim.html)
-- [Inject Packages in pipx](https://cetyler.github.io/inject-packages-in-pipx.html)
-- [Application Name in PostgreSQL](https://cetyler.github.io/application-name-in-postgresql.html)
-- [Find and Replace in Vim](https://cetyler.github.io/find-and-replace-in-vim.html)
+- [Get Disk Size for Each Database](https://cetyler.github.io/get-disk-size-for-each-database.html)
+- [Include Schema in psycopg2 Connection String](https://cetyler.github.io/include-schema-in-psycopg2-connection-string.html)
+- [Create Automatic Timestamps in PostgreSQL](https://cetyler.github.io/create-automatic-timestamps-in-postgresql.html)
+- [TIL - Today I Learned](https://cetyler.github.io/til-today-i-learned.html)
+- [Weather Project - Requirements and Roadmap](https://cetyler.github.io/weather-project-requirements-and-roadmap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
