@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculate the Distance between two Latitudes and Longitudes](https://cetyler.github.io/calculate-the-distance-between-two-latitudes-and-longitudes.html)
 - [Get Disk Size for Each Database](https://cetyler.github.io/get-disk-size-for-each-database.html)
 - [Include Schema in psycopg2 Connection String](https://cetyler.github.io/include-schema-in-psycopg2-connection-string.html)
 - [Create Automatic Timestamps in PostgreSQL](https://cetyler.github.io/create-automatic-timestamps-in-postgresql.html)
 - [TIL - Today I Learned](https://cetyler.github.io/til-today-i-learned.html)
-- [Weather Project - Requirements and Roadmap](https://cetyler.github.io/weather-project-requirements-and-roadmap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
