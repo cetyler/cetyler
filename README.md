@@ -30,11 +30,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup Python Package to use with Pipx](https://cetyler.github.io/setup-python-package-to-use-with-pipx.html)
+- [Zettelkasten Workflow](https://cetyler.github.io/zettelkasten-workflow.html)
 - [Using psql to put JSON Data into a Table](https://cetyler.github.io/using-psql-to-put-json-data-into-a-table.html)
 - [Weather Project - Initial Release](https://cetyler.github.io/weather-project-initial-release.html)
 - [Prune Docker Images](https://cetyler.github.io/prune-docker-images.html)
-- [Clear Highlighting in Vim](https://cetyler.github.io/clear-highlighting-in-vim.html)
-- [Inject Packages in pipx](https://cetyler.github.io/inject-packages-in-pipx.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
