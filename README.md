@@ -22,7 +22,6 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" alt="Labview" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mate-logo-1.svg" alt="Ubuntu Mate" width="50" height="50"/>
 
 ---
