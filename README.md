@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Set Statement Timeout](https://cetyler.github.io/set-statement-timeout.html)
-- [SQL Window Functions Explained](https://cetyler.github.io/sql-window-functions-explained.html)
-- [Escape Keys using psycopg2](https://cetyler.github.io/escape-keys-using-psycopg2.html)
-- [Setup Python Package to use with Pipx](https://cetyler.github.io/setup-python-package-to-use-with-pipx.html)
-- [Zettelkasten Workflow](https://cetyler.github.io/zettelkasten-workflow.html)
+- [How to List Active Connections on PostgreSQL](https://cetyler.github.io/how-to-list-active-connections-on-postgresql.html)
+- [Check for Unvalidated Database Constraints](https://cetyler.github.io/check-for-unvalidated-database-constraints.html)
+- [Deprecated](https://cetyler.github.io/deprecated.html)
+- [Get Battery Status in CLI](https://cetyler.github.io/get-battery-status-in-cli.html)
+- [How to Read a Vim Swapfile](https://cetyler.github.io/how-to-read-a-vim-swapfile.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
