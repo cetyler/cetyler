@@ -29,11 +29,8 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuild Pelican Source](https://cetyler.github.io/rebuild-pelican-source.html)
-- [Check for unused Indexes](https://cetyler.github.io/check-for-unused-indexes.html)
-- [Powershell Remoting](https://cetyler.github.io/powershell-remoting.html)
-- [View Code of Stored Procedure](https://cetyler.github.io/view-code-of-stored-procedure.html)
-- [How to List Active Connections on PostgreSQL](https://cetyler.github.io/how-to-list-active-connections-on-postgresql.html)
+- [Reboot using Hugo](https://cetyler.github.io/posts/202408241533/)
+- [Rebuild Pelican Source](https://cetyler.github.io/posts/2024-08-11-rebuild_website/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
