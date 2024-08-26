@@ -31,9 +31,9 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 <!-- BLOG-POST-LIST:START -->
 - [Reboot using Hugo](https://cetyler.github.io/posts/2024/202408241533/)
 - [Rebuild Pelican Source](https://cetyler.github.io/posts/2024/2024-08-11-rebuild_website/)
-- [SQL Window Functions Explained](https://cetyler.github.io/posts/2023/20230610-window_functions/)
-- [Create Automatic Timestamps in PostgreSQL](https://cetyler.github.io/posts/2022/2022-12-15_timestamp/)
-- [Reuven Lerner&#39;s Weekly Python Exercise A3](https://cetyler.github.io/posts/2022/2022-01-14-reuven_wpe/)
+- [Check for unused Indexes](https://cetyler.github.io/posts/2023/20230909235222/)
+- [Powershell Remoting](https://cetyler.github.io/posts/2023/20230823081624/)
+- [View Code of Stored Procedure](https://cetyler.github.io/posts/2023/20230817111325/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
