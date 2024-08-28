@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Get Your Work Recognized](https://cetyler.github.io/posts/2024/2024-08-27-get_your_work-recognized/)
 - [Reboot using Hugo](https://cetyler.github.io/posts/2024/202408241533/)
 - [Rebuild Pelican Source](https://cetyler.github.io/posts/2024/2024-08-11-rebuild_website/)
 - [Check for unused Indexes](https://cetyler.github.io/posts/2023/20230909235222/)
 - [Powershell Remoting](https://cetyler.github.io/posts/2023/20230823081624/)
-- [View Code of Stored Procedure](https://cetyler.github.io/posts/2023/20230817111325/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
