@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Reinstall Python with uv](https://cetyler.github.io/til/2025/2025-01-11_uv_python/)
+- [Setting up OpenWeather Report GitHub Actions](https://cetyler.github.io/posts/2025/2025-01-06_github_actions/)
 - [WAT Python Inspection Tool](https://cetyler.github.io/til/2025/2025-01-01_wat/)
 - [RightTyper to Generate Types](https://cetyler.github.io/til/2024/2024-12-31-right_typer/)
 - [Attempt to Create a Link Blog](https://cetyler.github.io/posts/2024/2024-12-26-link_blog/)
-- [Upgrade from PostgreSQL 15 to 17 on Windows using pg_upgrade](https://cetyler.github.io/posts/2024/2024-11-11-pgupgrade/)
-- [Setup Apt-Mirror on Ubuntu](https://cetyler.github.io/posts/2024/2024-09-13-setup_aptmirror/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
