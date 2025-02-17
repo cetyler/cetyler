@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Reverse of cat is tac](https://cetyler.github.io/til/2025/2025-02-16_tac/)
 - [Open Mateo Weather API](https://cetyler.github.io/til/2025/2025-02-01_openmateo/)
 - [Great Tables and StreamLit](https://cetyler.github.io/til/2025/2025-02-01_great_tables/)
 - [Another Good Reason for Open Source](https://cetyler.github.io/posts/2025/2025-01-25_why_opensource/)
 - [How to Reinstall Python with uv](https://cetyler.github.io/til/2025/2025-01-11_uv_python/)
-- [Setting up OpenWeather Report GitHub Actions](https://cetyler.github.io/posts/2025/2025-01-06_github_actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
