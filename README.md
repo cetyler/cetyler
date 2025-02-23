@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Some New Unix/Linux Tools](https://cetyler.github.io/til/2025/2025-02-22_bashrc/)
+- [Using uv to build and install Python CLI apps](https://cetyler.github.io/til/2025/2025-02-13_uv/)
+- [Generate CREATE TABLE query for an existing table](https://cetyler.github.io/til/2025/2025-02-20_postgres/)
 - [The Reverse of cat is tac](https://cetyler.github.io/til/2025/2025-02-16_tac/)
 - [Open Mateo Weather API](https://cetyler.github.io/til/2025/2025-02-01_openmateo/)
-- [Great Tables and StreamLit](https://cetyler.github.io/til/2025/2025-02-01_great_tables/)
-- [Another Good Reason for Open Source](https://cetyler.github.io/posts/2025/2025-01-25_why_opensource/)
-- [How to Reinstall Python with uv](https://cetyler.github.io/til/2025/2025-01-11_uv_python/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
