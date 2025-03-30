@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Table with Existing Table with No Data](https://cetyler.github.io/til/2025/2025-3-28_create_table/)
-- [Self Joins](https://cetyler.github.io/til/2025/2025-3-28_self_joins/)
-- [Recursive CTEs](https://cetyler.github.io/til/2025/2025-3-28_recursive_cte/)
-- [Starting in Read Only Mode the Easy Way](https://cetyler.github.io/til/2025/2025-03-27_psql_readonly/)
-- [Postgres query cancellation](https://cetyler.github.io/til/2025/2025-03-18_pg_query_cancel/)
+- [List of Named Color for Pandas](https://cetyler.github.io/til/2025/2025-3-29_pandas_color/)
+- [Using Document Properties to Track Your Excel Reports](https://cetyler.github.io/til/2025/2025-3-29_doc_property/)
+- [How to Generate a list of Tables to Drop](https://cetyler.github.io/til/2025/2025-3-29_drop_tables/)
+- [Passing a List of Arguments with Click](https://cetyler.github.io/til/2025/2025-3-29_list_arguments_clicks/)
+- [Using Regex in PostgreSQL](https://cetyler.github.io/til/2025/2025-3-29_regex/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
