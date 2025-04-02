@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Spines](https://cetyler.github.io/til/2025/2025-4-1_data_spines/)
+- [Using Assert Never in Python](https://cetyler.github.io/til/2025/2025-4-1_assert_python/)
+- [Create Assert Function in SQL](https://cetyler.github.io/til/2025/2025-4-1_assert_sql/)
 - [List Table Columns in PostgreSQL Database](https://cetyler.github.io/til/2025/2025-3-31_list_tables/)
 - [Stub Code](https://cetyler.github.io/til/2025/2025-3-31_stub_code/)
-- [List of Named Color for Pandas](https://cetyler.github.io/til/2025/2025-3-29_pandas_color/)
-- [Using Document Properties to Track Your Excel Reports](https://cetyler.github.io/til/2025/2025-3-29_doc_property/)
-- [How to Generate a list of Tables to Drop](https://cetyler.github.io/til/2025/2025-3-29_drop_tables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
