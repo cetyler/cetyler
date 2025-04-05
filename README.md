@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Histograms with Postgres](https://cetyler.github.io/til/2025/2025-4-4_histograms_postgres/)
 - [Self-Contained Python Scripts with uv](https://cetyler.github.io/til/2025/2025-04-04_uv/)
 - [Check Iterable Equality the Right Way](https://cetyler.github.io/til/2025/2025-04-02_iterable_equality/)
 - [Data Spines](https://cetyler.github.io/til/2025/2025-4-1_data_spines/)
 - [Using Assert Never in Python](https://cetyler.github.io/til/2025/2025-4-1_assert_python/)
-- [Create Assert Function in SQL](https://cetyler.github.io/til/2025/2025-4-1_assert_sql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
