@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [De-duplicate with sets &amp; dict.fromkeys](https://cetyler.github.io/til/2025/2025-04-16-sets/)
 - [A Quick Guide to Generating Fake Data with Pandas](https://cetyler.github.io/til/2025/2025-4-6_fake_data/)
 - [How to use Fuzzy String Matching with PostgreSQL](https://cetyler.github.io/til/2025/2025-4-6_fuzzy_postgresql/)
 - [Writing Python Like It&#39;s Rust](https://cetyler.github.io/til/2025/2025-4-6_rust_python/)
 - [How to List Active Connections on PostgreSQL](https://cetyler.github.io/til/2025/2025-4-6_active_connection/)
-- [Working with Time in Postgres](https://cetyler.github.io/til/2025/2025-4-6_postgres_time/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
