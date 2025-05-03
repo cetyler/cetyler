@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [StreamLit Cloud](https://cetyler.github.io/posts/2025/2025-5-3_streamlit_cloud/)
-- [Python sh Package](https://cetyler.github.io/til/2025/2025-4-30_python_sh/)
-- [De-duplicate with sets &amp; dict.fromkeys](https://cetyler.github.io/til/2025/2025-04-16-sets/)
-- [A Quick Guide to Generating Fake Data with Pandas](https://cetyler.github.io/til/2025/2025-4-6_fake_data/)
-- [How to use Fuzzy String Matching with PostgreSQL](https://cetyler.github.io/til/2025/2025-4-6_fuzzy_postgresql/)
+- [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://cetyler.github.io/til/2025/2025-5-3_planner_oops/)
+- [Validating Data Types from Semi-Structured Data Loads in Postgres with pg_input_is_valid](https://cetyler.github.io/til/2025/2025-5-3_valid_types/)
+- [How to Run Python in Production](https://cetyler.github.io/posts/2025/2025-5-3_how_to_run_python_prod/)
+- [SQL Noir](https://cetyler.github.io/til/2025/2025-5-3_sqlnoir/)
+- [PostgreSQL_Language Server](https://cetyler.github.io/til/2025/2025-5-3_postgres_lang_server/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
