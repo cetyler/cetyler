@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding Differences in Images with Python and Pillow](https://cetyler.github.io/til/2025/2025-5-20_pillow/)
 - [Using Open Libary APIs](https://cetyler.github.io/posts/2025/2025-5-18_openlibrary/)
 - [Install pre-commit with uv](https://cetyler.github.io/til/2025/2025-5-14_uv_precommit/)
 - [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://cetyler.github.io/til/2025/2025-5-3_planner_oops/)
 - [Validating Data Types from Semi-Structured Data Loads in Postgres with pg_input_is_valid](https://cetyler.github.io/til/2025/2025-5-3_valid_types/)
-- [How to Run Python in Production](https://cetyler.github.io/posts/2025/2025-5-3_how_to_run_python_prod/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
