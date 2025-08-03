@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Start all of your commands with a comma](https://cetyler.github.io/til/2025/2025-7-25_comma_commands/)
 - [Stop Shipping Dashboards that Don&#39;t Matter](https://cetyler.github.io/posts/2025/2025-7-18_stop_shipping_dashboards/)
 - [How to Append Text in PostgreSQL](https://cetyler.github.io/til/2025/2025-7-18_append_text_postgresql/)
 - [Linking to external files &amp; folders](https://cetyler.github.io/til/2025/2025-6-2_linking_obsidian/)
 - [Finding Differences in Images with Python and Pillow](https://cetyler.github.io/til/2025/2025-5-20_pillow/)
-- [Using Open Libary APIs](https://cetyler.github.io/posts/2025/2025-5-18_openlibrary/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
