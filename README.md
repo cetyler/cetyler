@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Firefly III Personal Access Token Expires](https://cetyler.github.io/til/2025/2025-8-16_firefly_iii_api/)
 - [Start all of your commands with a comma](https://cetyler.github.io/til/2025/2025-7-25_comma_commands/)
 - [git diff with pytest](https://cetyler.github.io/til/2025/2025-7-18_git_diff_pytest/)
 - [Get Schema Sizes](https://cetyler.github.io/til/2025/2025-7-29_schema_size/)
 - [Stop Shipping Dashboards that Don&#39;t Matter](https://cetyler.github.io/posts/2025/2025-7-18_stop_shipping_dashboards/)
-- [How to Append Text in PostgreSQL](https://cetyler.github.io/til/2025/2025-7-18_append_text_postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
