@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Alignment to Save Space](https://cetyler.github.io/til/2025/2025-9-18_data_alignment/)
 - [Remove Characters from a String](https://cetyler.github.io/til/2025/2025-8-26_remove_string/)
 - [uv Cheatsheet](https://cetyler.github.io/til/2025/2025-08-26_uv/)
 - [Firefly III Personal Access Token Expires](https://cetyler.github.io/til/2025/2025-8-16_firefly_iii_api/)
 - [Start all of your commands with a comma](https://cetyler.github.io/til/2025/2025-7-25_comma_commands/)
-- [git diff with pytest](https://cetyler.github.io/til/2025/2025-7-18_git_diff_pytest/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
