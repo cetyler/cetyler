@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade PostgreSQL from 17 to 18 on Windows](https://cetyler.github.io/posts/2025/2025-10-10_upgrade_postgresql/)
-- [Data Alignment to Save Space](https://cetyler.github.io/til/2025/2025-9-18_data_alignment/)
-- [Remove Characters from a String](https://cetyler.github.io/til/2025/2025-8-26_remove_string/)
-- [uv Cheatsheet](https://cetyler.github.io/til/2025/2025-08-26_uv/)
-- [Firefly III Personal Access Token Expires](https://cetyler.github.io/til/2025/2025-8-16_firefly_iii_api/)
+- [Use filter&lpar;&rpar; instead of for loop](https://cetyler.github.io/til/2025/2025-10-18_use_filter/)
+- [How to Version in pyproject](https://cetyler.github.io/til/2025/2025-10-18_pyproject_version/)
+- [Use SQL Linter](https://cetyler.github.io/til/2025/2025-10-18_sql_linter/)
+- [Bash trick: using grep for faster history search](https://cetyler.github.io/til/2025/2025-10-18_grep_history/)
+- [List table columns in PostgreSQL database](https://cetyler.github.io/til/2025/2025-10-18_list_tables_postgresql/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
