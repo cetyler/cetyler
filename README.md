@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The Git Commands I Run Before Reading Any Code](https://cetyler.github.io/til/2026/2026-5-2_git_new_project/)
+- [Use Python for Scripting](https://cetyler.github.io/posts/2026/2026-5-2_python_scripts/)
+- [Python tip: name your unicode characters](https://cetyler.github.io/til/2026/2026-5-2_name_unicode/)
+- [uv Python Upgrade](https://cetyler.github.io/til/2026/2026-5-2_uv_python_upgrade/)
 - [How to Select Python Libraries](https://cetyler.github.io/posts/2025/2025-11-15_pretty_table/)
-- [Find Error in pg_dump](https://cetyler.github.io/til/2023/2023-11-5_pg_dump_sed/)
-- [Use filter&lpar;&rpar; instead of for loop](https://cetyler.github.io/til/2025/2025-10-18_use_filter/)
-- [How to Version in pyproject](https://cetyler.github.io/til/2025/2025-10-18_pyproject_version/)
-- [Use SQL Linter](https://cetyler.github.io/til/2025/2025-10-18_sql_linter/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
