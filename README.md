@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Scripting Good Practices in Python](https://cetyler.github.io/posts/2026/2026-7-5_good_scripting/)
 - [Using uv and subprocess module](https://cetyler.github.io/til/2026/2026-5-29_uv_subprocess_python/)
 - [The Git Commands I Run Before Reading Any Code](https://cetyler.github.io/til/2026/2026-5-2_git_new_project/)
 - [Use Python for Scripting](https://cetyler.github.io/posts/2026/2026-5-2_python_scripts/)
 - [Python tip: name your unicode characters](https://cetyler.github.io/til/2026/2026-5-2_name_unicode/)
-- [uv Python Upgrade](https://cetyler.github.io/til/2026/2026-5-2_uv_python_upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
