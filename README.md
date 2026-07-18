@@ -29,11 +29,11 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Use pytest-xdist to Speed Up Testing](https://cetyler.github.io/til/2026/2026-7-18_pytest-dist-testing/)
 - [How to Remove a Stubborn Snap](https://cetyler.github.io/til/2026/2026-7-11_remove_snap/)
 - [Scripting Good Practices in Python](https://cetyler.github.io/posts/2026/2026-7-5_good_scripting/)
 - [Using uv and subprocess module](https://cetyler.github.io/til/2026/2026-5-29_uv_subprocess_python/)
 - [The Git Commands I Run Before Reading Any Code](https://cetyler.github.io/til/2026/2026-5-2_git_new_project/)
-- [Use Python for Scripting](https://cetyler.github.io/posts/2026/2026-5-2_python_scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
