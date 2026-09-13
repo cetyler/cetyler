@@ -40,6 +40,6 @@ Feel free to read my [blog](https://cetyler.github.io/) or contact me through
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetyler&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=cetyler&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=cetyler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=cetyler&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
